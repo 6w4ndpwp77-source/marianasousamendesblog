@@ -1,9 +1,1 @@
-{
-  "outputDirectory": ".",
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/index%206.html"
-    }
-  ]
-}
+{}
